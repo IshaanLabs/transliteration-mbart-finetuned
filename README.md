@@ -1,6 +1,6 @@
 # Multilingual Transliteration Model: English to Indic Scripts
 
-A production-ready transliteration system that converts English text to Hindi, Bengali, and Tamil using fine-tuned mBART-50 with LoRA optimization and CTranslate2 acceleration.
+A transliteration system that converts English text to Hindi, Bengali, and Tamil using fine-tuned mBART-50 with LoRA optimization and CTranslate2 acceleration.
 
 ## 🎯 Project Overview
 
